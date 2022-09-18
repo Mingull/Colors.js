@@ -1,0 +1,26 @@
+{
+  "name": "colors",
+  "version": "1.0.0",
+  "description": "Simple console Colors",
+  "main": "index.ts",
+  "scripts": {
+    "test": "nodeman ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mingull/Colors.js.git"
+  },
+  "keywords": [
+    "console",
+    "colors"
+  ],
+  "author": "Mingull",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mingull/Colors.js/issues"
+  },
+  "homepage": "https://github.com/Mingull/Colors.js#readme",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
