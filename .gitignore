@@ -104,7 +104,7 @@ dist
 .tern-port
 
 /javascript
-/code
+/src
 /index.js
 .prettierrc
 package-lock.json
